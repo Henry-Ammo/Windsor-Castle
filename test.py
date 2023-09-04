@@ -1,5 +1,5 @@
 import unittest
-from app import determine_prize  
+from game import determine_prize  
 
 class TestDeterminePrize(unittest.TestCase):
 
